@@ -3,7 +3,7 @@ A Beginner's Guide to Python, to enable people to code and make DIY Projects, ta
 
 ## Course Playlist
 
-[/Thumbnail.png](https://youtube.com/)
+[![Series Thumbnail](Thumbnail.png)](https://youtube.com/)
 
 
 ## View Lesson Plan
