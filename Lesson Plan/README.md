@@ -1,0 +1,30 @@
+# Lesson Plan
+
+```
+Python For Newbies
+____________________
+    |
+1   |__/ Overview
+    |
+2   |__/ Setting Up
+    |
+3   |__/ Hello World 
+    |
+4   |__/ Data Types
+    |
+5   |__/ Strings
+    |
+6   |__/ Concatenation 
+    |
+7   |__/ Lists
+    |
+8   |__/ List Functions
+    |
+9   |__/ Dictionaries
+    |
+10  |__/ Dictionary Functions
+    |
+11  |__/ Tuples
+    |
+12  |__/ Variables
+```
