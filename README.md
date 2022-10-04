@@ -3,7 +3,8 @@
 
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![APM](https://img.shields.io/apm/l/M?style=plastic)](/LICENSE)
-![](https://img.shields.io/badge/status-starting--soon-brightgreen)
+![Course Status](https://img.shields.io/badge/status-starting--soon-brightgreen)
+![GitHub Repo stars](https://img.shields.io/github/stars/kshgr/Python-for-Newbies?style=social)
 
 A Beginner's Guide to Python, to enable people to code and make DIY Projects, taught through short video tutorials on YouTube, with simple learning projects.
 
