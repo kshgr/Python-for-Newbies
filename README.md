@@ -5,6 +5,7 @@
 [![APM](https://img.shields.io/apm/l/M?style=plastic)](/LICENSE)
 ![Course Status](https://img.shields.io/badge/status-starting--soon-brightgreen)
 ![GitHub Repo stars](https://img.shields.io/github/stars/kshgr/Python-for-Newbies?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/kshgr/Python-for-Newbies)
 
 A Beginner's Guide to Python, to enable people to code and make DIY Projects, taught through short video tutorials on YouTube, with simple learning projects.
 
