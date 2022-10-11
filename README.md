@@ -25,7 +25,7 @@ This course is aimed towards complete beginners, therefore no prerequiste knowle
 
 ## About
 
-Python is a general-purpose programming language, created by Guido von Rossum, back in 1990. This stable and mature language is very high-level, dynamic, object-oriented and cross-platform, all charecteristics that are vey attractive to developers.
+Python is a general-purpose programming language, created by Guido von Rossum, back in 1990. This stable and mature language is very high-level, dynamic, object-oriented and cross-platform, all charecteristics that are very attractive to developers.
 Python Provides a unique mix of elegance, simplicity, practicallity and power.
 It is easy to learn, so it is quite suitable if you're new to programming.
 
