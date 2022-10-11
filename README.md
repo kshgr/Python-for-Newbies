@@ -21,3 +21,12 @@ A Beginner's Guide to Python, to enable people to code and make DIY Projects, ta
 
 ## Prerequisites
 This course is aimed towards complete beginners, therefore no prerequiste knowledge is required, all you need is a device to code, an internet connection to watch the videos and the desire to learn!
+
+
+## About
+
+Python is a general-purpose programming language, created by Guido von Rossum, back in 1990. This stable and mature language is very high-level, dynamic, object-oriented and cross-platform, all charecteristics that are vey attractive to developers.
+Python Provides a unique mix of elegance, simplicity, practicallity and power.
+It is easy to learn, so it is quite suitable if you're new to programming.
+
+This course takes refference from [Alex Martelli's "Python in a Nutshell"](https://www.oreilly.com/library/view/python-in-a/9781491913833/).
