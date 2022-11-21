@@ -29,4 +29,4 @@ Python is a general-purpose programming language, created by Guido von Rossum, b
 Python Provides a unique mix of elegance, simplicity, practicallity and power.
 It is easy to learn, so it is quite suitable if you're new to programming.
 
-This course takes refference from [Alex Martelli's "Python in a Nutshell"](https://www.oreilly.com/library/view/python-in-a/9781491913833/).
+This course takes reference from [Alex Martelli's "Python in a Nutshell"](https://www.oreilly.com/library/view/python-in-a/9781491913833/).
